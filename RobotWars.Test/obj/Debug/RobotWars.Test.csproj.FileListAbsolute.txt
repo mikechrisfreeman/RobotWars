@@ -1,0 +1,7 @@
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.pdb
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Core.dll
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Core.pdb
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.dll
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.pdb

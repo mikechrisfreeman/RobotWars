@@ -1,0 +1,4 @@
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Core\bin\Debug\RobotWars.Core.dll
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Core\bin\Debug\RobotWars.Core.pdb
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Core\obj\Debug\RobotWars.Core.dll
+C:\Users\mikec\Documents\projects\RobotWars\RobotWars.Core\obj\Debug\RobotWars.Core.pdb
